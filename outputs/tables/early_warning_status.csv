@@ -1,0 +1,2 @@
+date_current,date_forecast,model,current_GSII,predicted_next_month_GSII,predicted_change_percent,warning_status
+2025-12-01,2026-01-01,Baseline_Naive,1.0,1.0,0.0,Normal
